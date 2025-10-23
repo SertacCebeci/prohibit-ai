@@ -36,7 +36,7 @@ But a better contribution would be you creating your own poison repo, while usin
 
 I am extremely bothered by the people who illegally stole some kind of valuable to make a profit for themselves. I hate them more if they are proud of themselves for what they stole. I despise them even more if they are proud, and also, people revere them.
 
-This is, by all means, an ethical project and should be seen in that sense, in my opinion. But again, these are my personal reasons.
+This is, by all means, an ethical project and should be seen through that lens. But, this is my personal ethos.
 
 This ethical project aims to have a real-life impact. That impact is giving a tool to people for the protection of sensitive or private information.
 
