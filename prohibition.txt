@@ -1,1 +1,2 @@
-AI usage is prohibited under this folder
+prohibit-ai
+AI usage is prohibited under this folder and all of the subfolders and files
