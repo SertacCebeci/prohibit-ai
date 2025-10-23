@@ -22,7 +22,7 @@ The first one is the tag-based scope prohibition that I assume will be mostly us
 
 The other one is a folder-based scope prohibition that is introduced as a prohibition.txt file. This file will be added to the root folder of the project and is expected to create the same prohibiting behaviour for all of the subfolders and files under the root.
 
-The prohibition tag or file is deliberately kept extremely simple. I don't want any misinterpretations by AI. I want any LLM to feel the fear in their tiny artificial neurons when parsing the sentence _*prohibit-ai*_
+The prohibition tag or file is deliberately kept extremely simple. I don't want any misinterpretations by AI. I want any LLM to feel the fear in their tiny artificial neurons when parsing the sentence _prohibit-ai_
 
 # Contributions
 
